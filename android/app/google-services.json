@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579501897177",
+    "firebase_url": "https://devjams-e236f.firebaseio.com",
+    "project_id": "devjams-e236f",
+    "storage_bucket": "devjams-e236f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579501897177:android:1f8682cab61ea778e095c8",
+        "android_client_info": {
+          "package_name": "com.example.driverside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579501897177-j7fciii07taq00u43giigdkch1k1a8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsD8QQOFKdjhiR9VanR2SEG7TbhwYBAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579501897177-j7fciii07taq00u43giigdkch1k1a8t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
